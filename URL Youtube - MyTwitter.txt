@@ -1,0 +1,6 @@
+Vídeo demonstrando (i) o programa em funcionamento com cobertura de todas as funcionalidades implementadas.
+(i) https://www.youtube.com/watch?v=-FE2qwzKmf4
+
+Vídeo demonstrando (ii) uma explicação de todo o código fonte do programa.
+https://www.youtube.com/watch?v=3Vg6vhXihrU
+
